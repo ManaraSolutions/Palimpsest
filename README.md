@@ -1,2 +1,2 @@
 # Palimpsest
-New Mind Twisting Game
+A New Mind Twisting Game
